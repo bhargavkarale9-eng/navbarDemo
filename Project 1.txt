@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechRel Classes</title>
+     <link rel="stylesheet" href="task.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <div class="logo-icon">&lt;/&gt;</div>
+            <h2>Tech<span>Rel</span> Classes</h2>
+        </div>
+
+        <ul class="menu">
+            <li class="home">
+                <i class="fa-solid fa-house"></i> Home
+            </li>
+        
+            <li>
+                <i class="fa-solid fa-user"></i> About 
+            </li>
+
+            <li>
+                <i class="fa-solid fa-layer-group"></i> Services
+            </li>
+
+            <li>
+                <i class="fa-solid fa-graduation-cap"></i> Courses
+            </li>
+            
+            <li>
+               <i class="fa-solid fa-folder"></i> Projects
+            </li>
+             <li>
+               <i class="fa-solid fa-envelope"></i> Contact
+            </li>
+
+        </ul>
+        <div class="buttons">
+
+        <button class="login">
+            <i class="fa-solid fa-user"></i> Login
+        </button>
+
+        <button class="get-started">
+            Get Started <i class="fa-solid fa-arrow-right"></i>
+        </button>
+
+    </div>
+
+    </nav>
+    
+</body>
+</html>
